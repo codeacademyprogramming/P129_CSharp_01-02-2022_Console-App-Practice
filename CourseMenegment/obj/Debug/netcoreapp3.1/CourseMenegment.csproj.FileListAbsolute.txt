@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P129\Task\CourseMenegment\bin\Debug\netcoreapp3.1\CourseMenegment.exe
+C:\Users\memme\Desktop\P129\Task\CourseMenegment\bin\Debug\netcoreapp3.1\CourseMenegment.deps.json
+C:\Users\memme\Desktop\P129\Task\CourseMenegment\bin\Debug\netcoreapp3.1\CourseMenegment.runtimeconfig.json
+C:\Users\memme\Desktop\P129\Task\CourseMenegment\bin\Debug\netcoreapp3.1\CourseMenegment.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P129\Task\CourseMenegment\bin\Debug\netcoreapp3.1\CourseMenegment.dll
+C:\Users\memme\Desktop\P129\Task\CourseMenegment\bin\Debug\netcoreapp3.1\CourseMenegment.pdb
+C:\Users\memme\Desktop\P129\Task\CourseMenegment\obj\Debug\netcoreapp3.1\CourseMenegment.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P129\Task\CourseMenegment\obj\Debug\netcoreapp3.1\CourseMenegment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P129\Task\CourseMenegment\obj\Debug\netcoreapp3.1\CourseMenegment.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P129\Task\CourseMenegment\obj\Debug\netcoreapp3.1\CourseMenegment.AssemblyInfo.cs
+C:\Users\memme\Desktop\P129\Task\CourseMenegment\obj\Debug\netcoreapp3.1\CourseMenegment.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P129\Task\CourseMenegment\obj\Debug\netcoreapp3.1\CourseMenegment.dll
+C:\Users\memme\Desktop\P129\Task\CourseMenegment\obj\Debug\netcoreapp3.1\CourseMenegment.pdb
+C:\Users\memme\Desktop\P129\Task\CourseMenegment\obj\Debug\netcoreapp3.1\CourseMenegment.genruntimeconfig.cache
